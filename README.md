@@ -6,5 +6,6 @@ Machine Learning Projects
 4.  Predict Blood Donations
 5.  Find Movie Similarity from Plot Summaries
 6.  Predict Species from Images
+7.  ASL Recognition with Deep Learning
 
 
