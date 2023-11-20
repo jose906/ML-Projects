@@ -7,5 +7,6 @@ Machine Learning Projects
 5.  Find Movie Similarity from Plot Summaries
 6.  Predict Species from Images
 7.  ASL Recognition with Deep Learning
+8.  Naïve Bees: Image Loading and Processing
 
 
